@@ -2,16 +2,16 @@
 Tugas Pertemuan 14 Enkrip dan Dekrip
 
 Perintah Enkrip dan Dekrip pada CMD :
-https://drive.google.com/drive/u/0/folders/1c4UtuPnWKAmXkExS7YUZJXpZ1V69lYy7
+![](https://raw.githubusercontent.com/Baiim/kriptografi-1/master/images/Screenshot%202023-01-08%20041939.png)
 
 Plainteks :
-https://drive.google.com/drive/u/0/folders/1c4UtuPnWKAmXkExS7YUZJXpZ1V69lYy7
+![](https://raw.githubusercontent.com/Baiim/kriptografi-1/master/images/Screenshot%202023-01-08%20042012.png)
 
 
 Chiperteks :
-https://drive.google.com/drive/u/0/folders/1c4UtuPnWKAmXkExS7YUZJXpZ1V69lYy7
+![](https://raw.githubusercontent.com/Baiim/kriptografi-1/master/images/Screenshot%202023-01-08%20042036.png)
 
 
 Plainteks setelah didekrip :
 
-https://drive.google.com/drive/u/0/folders/1c4UtuPnWKAmXkExS7YUZJXpZ1V69lYy7
+![](https://raw.githubusercontent.com/Baiim/kriptografi-1/master/images/Screenshot%202023-01-08%20042104.png)
